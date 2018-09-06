@@ -10,7 +10,7 @@
 		    },
 		    {"url": "http://www.vrac.iastate.edu/~jmvance/",
 		     "maintainer": true,
-	     	     "name": "J.M. Vance Research Group",
+	     	     "name": "J.M. Vance Research Group"
 		     }],
 	"repository": {
 		"url": "git@github.com:brunolnetto/arduino-boost.git",
