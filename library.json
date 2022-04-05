@@ -13,7 +13,7 @@
 	     	     "name": "J.M. Vance Research Group"
 		     }],
 	"repository": {
-		"url": "git@github.com:brunolnetto/arduino-boost.git",
+		"url": "https://github.com/brunolnetto/arduino-boost.git",
 		"type": "git"
 	},
 	"license": "mpich2 License",
